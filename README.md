@@ -1,2 +1,2 @@
 # Learning2
-recap of the yesterday class
+recap of the yesterday class.
